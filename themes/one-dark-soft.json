@@ -203,7 +203,7 @@
           },
           "emphasis": {
             "color": "#bbbbbb",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "emphasis.strong": {
             "color": "#bbbbbb",
@@ -223,11 +223,11 @@
           },
           "hint": {
             "color": "#A0A0A0F0",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "keyword": {
             "color": "#d55fde",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "label": {
             "color": "#ef596f"
@@ -247,7 +247,7 @@
           },
           "predictive": {
             "color": "#5c637080",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "preproc": {
             "color": "#d55fde"
@@ -318,7 +318,7 @@
           },
           "variable.special": {
             "color": "#d9c067",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "variable.parameter": {
             "color": "#d19a66"
@@ -331,15 +331,15 @@
           },
           "variable.this": {
             "color": "#d9c067",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "variable.self": {
             "color": "#d9c067",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "variable.super": {
             "color": "#d9c067",
-            "font_style": "italic"
+            "font_style": "normal"
           },
           "variant": {
             "color": "#d9c067"
